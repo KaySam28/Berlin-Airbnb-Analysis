@@ -22,4 +22,4 @@ The purpose of this analysis is to explore a dataset of Airbnb in Berlin with pa
 
 My thanks go to Airbnb for sharing this data. The licensing of the data can be found under the link below:
 http://insideairbnb.com/get-the-data.html
-Additional thanks goes to 
+Additional thanks goes to https://github.com/schrankf for initally leading me to the dataset and potential questions that I could use to analyze that data
