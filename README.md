@@ -5,6 +5,7 @@
 1. [About](#about)
 2. [Objective](#objective)
 3. [Acknowledgements](#acknowledgements)
+4.  [Visualisation](#Visualisation)
 
 ## About <a name="about"></a>
 
@@ -23,3 +24,9 @@ The purpose of this analysis is to explore a dataset of Airbnb in Berlin with pa
 My thanks go to Airbnb for sharing this data. The licensing of the data can be found under the link below:
 http://insideairbnb.com/get-the-data.html
 Additional thanks goes to https://github.com/schrankf for initally leading me to the dataset and potential questions that I could use to analyze that data
+
+
+
+## Visualisation <a name="Visualization"></a>
+Attached is the link of my tableau visualisation explaining the data with visuals:
+https://public.tableau.com/app/profile/samuel.nyarko.osei.tutu/viz/BerlinAirbnb_16364629486710/Dashboard1
